@@ -1,16 +1,60 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="images/angie.svg" width=400"/>
+</div>
 
-<!--
-**zhuravskayalina/zhuravskayalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/anhelinazhuravskaya/">
+    <img src="images/linkedin.svg"/>
+</a>
+<a href="mailto:zhurauskaya.anhelina@gmail.com">
+    <img src="images/gmail.svg"/>
+</a>
+<a href="https://t.me/anhelinaZh">
+    <img src="images/telegram.svg"/>
+</a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my profile! I'm Frontend Developer, currently open to work, based in 🌁 **Warsaw**. 
+
+[//]: # (Check out my [resume]&#40;&#41;.)
+
+<h2>🚀 Some Tools I Use</h2>
+<hr>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/vitejs/vitejs-original.svg" width="25" height="25" alt="vite"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/Snailedlt/devicon/16490be7b3ce5e8d30b2ce9f6983d3aaea426241/icons/postman/postman-original.svg" width="25" height="25" alt="postman"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" height="25" alt="git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="vscode"  width="25" height="25"/>
+</p>
+
+
+<h2>📚 Languages</h2>
+<hr>
+
+* English B1
+* Belarusian (native)
+* Russian (native)
+<hr>
+
+
+![image](https://www.codewars.com/users/zhurauskayalina/badges/large)
+
+<img src="https://github-readme-stats.vercel.app/api?username=zhuravskayalina&show_icons=true&count_private=true" alt="zhuravskayalina github stats" />
+
+
+
