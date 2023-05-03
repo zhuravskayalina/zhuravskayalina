@@ -2,7 +2,7 @@
   <img src="images/angie.svg" width=400"/>
 </div>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/anhelinazhuravskaya/">
     <img src="images/linkedin.svg"/>
 </a>
