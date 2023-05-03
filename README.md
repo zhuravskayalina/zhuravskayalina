@@ -20,7 +20,6 @@ Welcome to my profile! I'm Frontend Developer, currently open to work, based in 
 [//]: # (Check out my [resume]&#40;&#41;.)
 
 <h2>🚀 Some Tools I Use</h2>
-<hr>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -44,7 +43,6 @@ Welcome to my profile! I'm Frontend Developer, currently open to work, based in 
 
 
 <h2>📚 Languages</h2>
-<hr>
 
 * English B1
 * Belarusian (native)
