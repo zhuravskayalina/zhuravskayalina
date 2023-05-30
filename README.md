@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="images/angie.svg" width=400"/>
-</div>
-
+## Hi, i'm Angelina 👋
 <p>
 <a href="https://www.linkedin.com/in/anhelinazhuravskaya/">
     <img src="images/linkedin.svg"/>
@@ -15,7 +12,9 @@
 </p>
 
 
-Welcome to my profile! I'm Frontend Developer, currently open to work, based in 🌁 **Warsaw**. 
+Welcome to my profile! I'm Frontend Developer based in 🌁 **Warsaw**. 
+
+I am open to work currently, so feel free to contact me!
 
 [//]: # (Check out my [resume]&#40;&#41;.)
 
@@ -38,7 +37,7 @@ Welcome to my profile! I'm Frontend Developer, currently open to work, based in 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" height="25" alt="git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"  width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="vscode"  width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm"  width="25" height="25"/>
 </p>
 
 
