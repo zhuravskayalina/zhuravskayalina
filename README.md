@@ -53,7 +53,7 @@ I am open to work currently, so feel free to contact me!
 * [Art Gallery](https://github.com/zhuravskayalina/art_gallery) 
 * [GraphQl Playground](https://github.com/zhuravskayalina/graphiql-app) (command)
 * [Social Network](https://github.com/zhuravskayalina/rss-social-network) (command)
-* [Online Store]() (command)
+* [Online Store](https://github.com/zhuravskayalina/online-store) (command)
 
 <hr>
 
