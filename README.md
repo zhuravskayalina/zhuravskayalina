@@ -1,4 +1,4 @@
-## Hi, i'm Angelina 👋
+## Hi, i'm Anhelina 👋
 <p>
 <a href="https://www.linkedin.com/in/anhelinazhuravskaya/">
     <img src="images/linkedin.svg"/>
