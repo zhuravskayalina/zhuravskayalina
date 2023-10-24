@@ -14,7 +14,7 @@
 
 Welcome to my profile! I'm Frontend Developer based in 🌁 **Warsaw**. 
 
-I am open to work currently, so feel free to contact me!
+Currently I'm open to work, so feel free to contact me!
 
 [//]: # (Check out my [resume]&#40;&#41;.)
 
