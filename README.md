@@ -51,9 +51,9 @@ Currently I'm open to work, so feel free to contact me!
 <h2>💻 Projects</h2>
 
 * [Art Gallery](https://github.com/zhuravskayalina/art_gallery) 
-* [GraphQl Playground](https://github.com/zhuravskayalina/graphiql-app) (command)
-* [Social Network](https://github.com/zhuravskayalina/rss-social-network) (command)
-* [Online Store](https://github.com/zhuravskayalina/online-store) (command)
+* [GraphQl Playground](https://github.com/zhuravskayalina/graphiql-app)
+* [Social Network](https://github.com/zhuravskayalina/rss-social-network) 
+* [Online Store](https://github.com/zhuravskayalina/online-store) 
 
 <hr>
 
