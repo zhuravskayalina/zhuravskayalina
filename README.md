@@ -52,6 +52,7 @@ Currently I'm open to work, so feel free to contact me!
 
 * [Art Gallery](https://github.com/zhuravskayalina/art_gallery) 
 * [GraphQl Playground](https://github.com/zhuravskayalina/graphiql-app)
+* [SongBird - quiz game](https://github.com/zhuravskayalina/songbird)
 * [Social Network](https://github.com/zhuravskayalina/rss-social-network) 
 * [Online Store](https://github.com/zhuravskayalina/online-store) 
 
