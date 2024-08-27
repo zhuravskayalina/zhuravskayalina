@@ -12,7 +12,7 @@
 </p>
 
 
-Welcome to my profile! I'm Frontend Developer based in 🌁 **Warsaw**. 
+Welcome to my profile! I'm Frontend Developer based in 🌁 **Tbilisi, Georgia**. 
 
 Currently I'm open to work, so feel free to contact me!
 
